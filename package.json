@@ -1,0 +1,25 @@
+{
+  "name": "chat",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "build2": "next build && next export"
+  },
+  "dependencies": {
+    "md5": "^2.3.0",
+    "moment": "^2.29.1",
+    "next": "11.1.2",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "socket.io": "^4.2.0",
+    "socket.io-client": "^4.2.0"
+  },
+  "devDependencies": {
+    "eslint": "7.32.0",
+    "eslint-config-next": "11.1.2"
+  }
+}
