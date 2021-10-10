@@ -2,7 +2,7 @@
 ## _A Realtime Messaging Application using Next js and Socket using Nodejs_
 
 
-[![Build Status](https://github.com/shiva-github/chat/blob/master/public/gitimages/passing.svg)](https://github.com/shiva-github/)
+[![Build Status](https://github.com/shiva-github/chat/blob/main/public/gitimages/passing.svg)](https://github.com/shiva-github/)
 
 ## Install
 ```sh
